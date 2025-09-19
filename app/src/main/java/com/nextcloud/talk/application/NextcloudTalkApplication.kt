@@ -88,7 +88,7 @@ class XStationsApplication :
     MultiDexApplication(),
     LifecycleObserver {
     //region Fields (components)
-    lateinit var componentApplication: NextcloudTalkApplicationComponent
+    lateinit var componentApplication: XStationsApplicationComponent
         private set
     //endregion
 

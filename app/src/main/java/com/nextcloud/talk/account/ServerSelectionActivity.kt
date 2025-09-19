@@ -93,10 +93,7 @@ class ServerSelectionActivity : BaseActivity() {
     override fun onResume() {
         super.onResume()
 
-        binding.hostUrlInputHelperText.text = String.format(
-            resources!!.getString(R.string.nc_server_helper_text),
-            resources!!.getString(R.string.nc_server_product_name)
-        )
+        binding.hostUrlInputHelperText.text = resources!!.getString(R.string.nc_server_helper_text)
         binding.serverEntryTextInputLayout.setEndIconOnClickListener { checkServerAndProceed() }
 
         if (resources!!.getBoolean(R.bool.hide_auth_cert)) {

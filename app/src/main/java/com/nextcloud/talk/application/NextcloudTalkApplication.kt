@@ -84,7 +84,7 @@ import javax.inject.Singleton
 )
 @Singleton
 @AutoInjector(NextcloudTalkApplication::class)
-class XStationsApplication :
+class NextcloudTalkApplication :
     MultiDexApplication(),
     LifecycleObserver {
     //region Fields (components)

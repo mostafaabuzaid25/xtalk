@@ -185,7 +185,7 @@ class NextcloudTalkApplication :
 
     //region Protected methods
     protected fun buildComponent() {
-        componentApplication = DaggerXStationsApplicationComponent.builder()
+        componentApplication = DaggerNextcloudTalkApplicationComponent.builder()
             .busModule(BusModule())
             .contextModule(ContextModule(applicationContext))
             .databaseModule(DatabaseModule())

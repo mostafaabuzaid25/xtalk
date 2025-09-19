@@ -21,9 +21,19 @@ Please note that Notifications won't work with the F-Droid version due to missin
 
 **Video & audio calls through X Stations on Android**
 
-X Stations is a fully on-premises audio/video and chat communication service designed specifically for cloud.xstations.net. It features secure communication with the highest degree of security while being easy to use.
+X Stations is a secure audio/video and chat communication service designed specifically for cloud.xstations.net. This Android app connects directly to the X Stations server and features the highest degree of security while being easy to use.
 
-X Stations lowers the barrier for communication and lets your team connect any time, any where, on any device, directly to the X Stations server. 
+X Stations lowers the barrier for communication and lets your team connect any time, any where, on any device, directly to the X Stations server.
+
+## Features :star:
+
+- **🔒 Secure Communication**: Direct connection to cloud.xstations.net
+- **📞 Voice & Video Calls**: High-quality audio and video calling
+- **💬 Chat**: Text messaging with emoji support
+- **📁 File Sharing**: Share documents, images, and files
+- **🎨 X Stations Branding**: Beautiful cyan theme throughout
+- **📱 Mobile Optimized**: Designed for Android devices
+- **🔐 End-to-End Encryption**: Your conversations stay private 
 
 ## Why is this so awesome? :sparkles:
 

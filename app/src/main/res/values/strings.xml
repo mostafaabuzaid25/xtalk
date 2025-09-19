@@ -26,6 +26,7 @@ How to translate with transifex:
 
     <!-- App Name -->
     <string name="nc_app_name">X Stations</string>
+    <string name="nc_server_product_name">X Stations</string>
 
     <!-- Common -->
     <string name="nc_yes">Yes</string>

@@ -19,11 +19,11 @@ Please note that Notifications won't work with the F-Droid version due to missin
 |---|---|---|---|---|---|
 |![Conversation list](/fastlane/metadata/android/en-US/images/phoneScreenshots/conversationList_light.png "Conversation list")|![Participant search](/fastlane/metadata/android/en-US/images/phoneScreenshots/searchParticipant_light.png "Participant search")|![Voice call](/fastlane/metadata/android/en-US/images/phoneScreenshots/voiceCall.png "Voice call")|![Voice recording](/fastlane/metadata/android/en-US/images/phoneScreenshots/voiceRecord_light.png "Voice recording")|![Markdown view](/fastlane/metadata/android/en-US/images/phoneScreenshots/markdown_light.png "Markdown view")|![Settings](/fastlane/metadata/android/en-US/images/phoneScreenshots/settings_light.png "Settings")|
 
-**Video & audio calls through Nextcloud on Android**
+**Video & audio calls through X Stations on Android**
 
-Nextcloud Talk is a fully on-premises audio/video and chat communication service. It features web and mobile apps and is designed to offer the highest degree of security while being easy to use.
+X Stations is a fully on-premises audio/video and chat communication service designed specifically for cloud.xstations.net. It features secure communication with the highest degree of security while being easy to use.
 
-Nextcloud Talk lowers the barrier for communication and lets your team connect any time, any where, on any device, with each other, customers or partners. 
+X Stations lowers the barrier for communication and lets your team connect any time, any where, on any device, directly to the X Stations server. 
 
 ## Why is this so awesome? :sparkles:
 

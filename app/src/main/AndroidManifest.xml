@@ -81,7 +81,7 @@
     <uses-permission android:name="${applicationId}.${broadcastPermission}" />
 
     <application
-        android:name=".application.NextcloudTalkApplication"
+        android:name=".application.XStationsApplication"
         android:allowBackup="true"
         android:fullBackupContent="@xml/backup_config"
         android:icon="@mipmap/ic_launcher"

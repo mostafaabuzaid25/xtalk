@@ -25,11 +25,11 @@
     <string name="weblogin_url" translatable="false">https://cloud.xstations.net</string>
 
     <!-- Will not be shown if empty -->
-    <string name="nc_privacy_url" translatable="false">https://nextcloud.com/privacy/</string>
+    <string name="nc_privacy_url" translatable="false">https://xstations.net/privacy/</string>
     <string name="nc_gpl3_url" translatable="false">https://www.gnu.org/licenses/gpl-3.0.en.html</string>
-    <string name="nc_source_code_url" translatable="false">https://github.com/nextcloud/talk-android</string>
-    <string name="nc_talk_android_issues_url" translatable="false">https://github.com/nextcloud/talk-android/issues</string>
-    <string name="nc_providers_url" translatable="false">https://nextcloud.com/providers</string>
+    <string name="nc_source_code_url" translatable="false">https://github.com/xstations/talk-android</string>
+    <string name="nc_talk_android_issues_url" translatable="false">https://github.com/xstations/talk-android/issues</string>
+    <string name="nc_providers_url" translatable="false">https://xstations.net/providers</string>
 
     <!-- Package name from which to import accounts - if empty, won't ever be shown -->
     <string name="nc_import_accounts_from" translatable="false">com.nextcloud.client</string>

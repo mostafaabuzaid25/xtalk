@@ -1,5 +1,5 @@
 /*
- * Nextcloud Talk - Android Client
+ * X Stations - Android Client
  *
  * SPDX-FileCopyrightText: 2022 Andy Scherzinger <info@andy-scherzinger.de>
  * SPDX-FileCopyrightText: 2022 Marcel Hibbe <dev@mhibbe.de>

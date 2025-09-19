@@ -47,6 +47,15 @@ The app provides:
 
 If you have suggestions or problems, please [open an issue](https://github.com/xstations/talk-android/issues) or contribute directly :)
 
+## Server Information :globe_with_meridians:
+
+This app is pre-configured to connect only to:
+- **Server URL**: `https://cloud.xstations.net`
+- **Package ID**: `com.xstations.talk`
+- **App Name**: X Stations
+
+The server connection is locked and cannot be changed by users, ensuring secure communication within the X Stations ecosystem.
+
 ## How to contribute :rocket:
 
 If you want to [contribute](https://xstations.net/contribute/) to X Stations, you are very welcome: 

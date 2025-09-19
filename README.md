@@ -48,9 +48,9 @@ If you want to [contribute](https://xstations.net/contribute/) to X Stations, yo
 
 ## Contribution Guidelines :scroll:
 
-[GPLv3](https://github.com/nextcloud/talk-android/blob/master/LICENSE.txt). All contributions to this repository are considered to be licensed under the GNU GPLv3 or any later version.
+[GPLv3](https://github.com/xstations/talk-android/blob/master/LICENSE.txt). All contributions to this repository are considered to be licensed under the GNU GPLv3 or any later version.
 
-Please read the [Code of Conduct](https://nextcloud.com/community/code-of-conduct/). This document offers some guidance to ensure Nextcloud participants can cooperate effectively in a positive and inspiring atmosphere, and to explain how together we can strengthen and support each other.
+Please read the [Code of Conduct](https://xstations.net/community/code-of-conduct/). This document offers some guidance to ensure X Stations participants can cooperate effectively in a positive and inspiring atmosphere, and to explain how together we can strengthen and support each other.
 
 Please review the [guidelines for contributing](/CONTRIBUTING.md) to this repository.
 

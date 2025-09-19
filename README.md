@@ -27,11 +27,15 @@ X Stations lowers the barrier for communication and lets your team connect any t
 
 ## Why is this so awesome? :sparkles:
 
-Because it is self hosted!!! Audio/video calls and text chat typically require a central server. Some projects go commendably far in trying to ensure they can't see the data, so nobody, not government, advertising company or somebody who broke in the servers, can follow conversations. But the servers still have to mediate every call and text message, allowing them to map out who talks to who and at what time. This 'metadata' [is as useful](https://www.wired.com/2015/03/data-and-goliath-nsa-metadata-spying-your-secrets/), if not more, to track people, than the full content, especially for mass surveillance purposes. Even if the data is not stored by the chat server, the hosting provider or a hacker could simply gather the data.
+Because it connects directly to X Stations! This app is specifically designed to work with the X Stations server at cloud.xstations.net, providing secure and reliable communication for X Stations users.
 
-By hosting your own server, all meta data stays on your server and thus under your control!
+The app provides:
+- **Direct connection** to cloud.xstations.net
+- **Secure communication** with end-to-end encryption
+- **Full feature support** for calls, chat, and file sharing
+- **X Stations branding** throughout the experience
 
-If you have suggestions or problems, please [open an issue](https://github.com/nextcloud/talk-android/issues) or contribute directly :)
+If you have suggestions or problems, please [open an issue](https://github.com/xstations/talk-android/issues) or contribute directly :)
 
 ## How to contribute :rocket:
 

@@ -83,7 +83,7 @@ import javax.inject.Singleton
     ]
 )
 @Singleton
-@AutoInjector(XStationsApplication::class)
+@AutoInjector(NextcloudTalkApplication::class)
 class XStationsApplication :
     MultiDexApplication(),
     LifecycleObserver {

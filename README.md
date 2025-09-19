@@ -39,11 +39,11 @@ If you have suggestions or problems, please [open an issue](https://github.com/x
 
 ## How to contribute :rocket:
 
-If you want to [contribute](https://nextcloud.com/contribute/) to Nextcloud, you are very welcome: 
+If you want to [contribute](https://xstations.net/contribute/) to X Stations, you are very welcome: 
 
-- on [our public Talk team conversation](https://cloud.nextcloud.com/call/c7fz9qpr)
-- our forum at https://help.nextcloud.com
-- for translations of the app on [Transifex](https://app.transifex.com/nextcloud/nextcloud/android-talk/)
+- on [our public X Stations conversation](https://cloud.xstations.net)
+- our forum at https://help.xstations.net
+- for translations of the app on [our translation platform](https://translate.xstations.net)
 - opening issues and PRs (including a corresponding issue)
 
 ## Contribution Guidelines :scroll:

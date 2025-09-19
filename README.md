@@ -111,8 +111,8 @@ If you have problems to receive talk notifications on your android phone, please
 - [Telefon-Freiton in Deutschland nach DTAG 1 TR 110-1, Kap. 8.3](https://commons.wikimedia.org/wiki/File:1TR110-1_Kap8.3_Freiton1.ogg)
   author: arvedkrynil
 
-[dcofile]: https://github.com/nextcloud/talk-android/blob/master/contribute/developer-certificate-of-origin
-[applyalicense]: https://github.com/nextcloud/talk-android/blob/master/contribute/HowToApplyALicense.md
+[dcofile]: https://github.com/xstations/talk-android/blob/master/contribute/developer-certificate-of-origin
+[applyalicense]: https://github.com/xstations/talk-android/blob/master/contribute/HowToApplyALicense.md
 
 ## Remarks :scroll:
 

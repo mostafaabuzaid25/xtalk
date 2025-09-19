@@ -115,8 +115,16 @@ class ServerSelectionActivity : BaseActivity() {
         }
 
         binding.serverEntryTextInputEditText.requestFocus()
+        
+        // Pre-populate X Stations server URL
+        binding.serverEntryTextInputEditText.setText("https://cloud.xstations.net")
+        binding.serverEntryTextInputEditText.isEnabled = false // Disable editing
+        
         if (!TextUtils.isEmpty(resources!!.getString(R.string.weblogin_url))) {
             binding.serverEntryTextInputEditText.setText(resources!!.getString(R.string.weblogin_url))
+            checkServerAndProceed()
+        } else {
+            // Auto-proceed with X Stations server
             checkServerAndProceed()
         }
         binding.serverEntryTextInputEditText.setOnEditorActionListener { _: TextView?, i: Int, _: KeyEvent? ->

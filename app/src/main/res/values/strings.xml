@@ -45,15 +45,15 @@ How to translate with transifex:
 
     <!-- Server selection -->
     <string name="nc_server_connect">Test server connection</string>
-    <string name="nc_server_helper_text">The link to your %1$s web interface when you open it in the browser.</string>
+    <string name="nc_server_helper_text">Connecting to X Stations server at cloud.xstations.net</string>
     <string name="nc_server_testing_connection">Testing connection</string>
     <string name="nc_server_unsupported">Server does not have supported Talk app installed</string>
 
-    <string name="nc_server_url">Server address https://…</string>
-    <string name="nc_server_not_installed">Please finish your %1$s installation</string>
-    <string name="nc_server_db_upgrade_needed">Please upgrade your %1$s database</string>
-    <string name="nc_server_maintenance">Please bring your %1$s out of maintenance</string>
-    <string name="nc_server_version">%1$s only works with %2$s 13 and up</string>
+    <string name="nc_server_url">https://cloud.xstations.net</string>
+    <string name="nc_server_not_installed">Please finish your X Stations installation</string>
+    <string name="nc_server_db_upgrade_needed">Please upgrade your X Stations database</string>
+    <string name="nc_server_maintenance">Please bring your X Stations out of maintenance</string>
+    <string name="nc_server_version">X Stations only works with compatible servers</string>
     <string name="nc_server_import_account_plain">Import account</string>
     <string name="nc_server_import_accounts_plain">Import accounts</string>
     <string name="nc_server_import_account">Import account from the %1$s app</string>

@@ -1,17 +1,17 @@
 <!--
- ~ SPDX-FileCopyrightText: 2017-2024 Nextcloud GmbH and Nextcloud contributors
+ ~ SPDX-FileCopyrightText: 2017-2024 X Stations and contributors
  ~ SPDX-License-Identifier: GPL-3.0-or-later
 -->
-# [Nextcloud](https://nextcloud.com) Talk for Android :speech_balloon:
+# [X Stations](https://xstations.net) Communication App for Android :speech_balloon:
 
-[![Build Status](https://drone.nextcloud.com/api/badges/nextcloud/talk-android/status.svg)](https://drone.nextcloud.com/nextcloud/talk-android) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/b89a720efbd24754984a776804913bca)](https://www.codacy.com/gh/nextcloud/talk-android/dashboard) [![Releases](https://img.shields.io/github/release/nextcloud/talk-android.svg)](https://github.com/nextcloud/talk-android/releases/latest) [![REUSE status](https://api.reuse.software/badge/github.com/nextcloud/talk-android)](https://api.reuse.software/info/github.com/nextcloud/talk-android)
+[![Build Status](https://drone.xstations.net/api/badges/xstations/talk-android/status.svg)](https://drone.xstations.net/xstations/talk-android) [![Releases](https://img.shields.io/github/release/xstations/talk-android.svg)](https://github.com/xstations/talk-android/releases/latest)
 
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" 
       alt="Download from Google Play" 
-      height="80">](https://play.google.com/store/apps/details?id=com.nextcloud.talk2)
+      height="80">](https://play.google.com/store/apps/details?id=com.xstations.talk)
 [<img src="https://f-droid.org/badge/get-it-on.png"
       alt="Get it on F-Droid"
-      height="80">](https://f-droid.org/packages/com.nextcloud.talk2/)
+      height="80">](https://f-droid.org/packages/com.xstations.talk/)
 
 Please note that Notifications won't work with the F-Droid version due to missing Google Play Services.
 

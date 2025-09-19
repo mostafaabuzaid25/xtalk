@@ -54,13 +54,13 @@ Please read the [Code of Conduct](https://xstations.net/community/code-of-conduc
 
 Please review the [guidelines for contributing](/CONTRIBUTING.md) to this repository.
 
-More information how to contribute: [https://nextcloud.com/contribute/](https://nextcloud.com/contribute/)
+More information how to contribute: [https://xstations.net/contribute/](https://xstations.net/contribute/)
 
 ## Start contributing :hammer_and_wrench:
 
 Make sure you read [SETUP.md](/SETUP.md) and [CONTRIBUTING.md](/CONTRIBUTING.md) before you start working on this project.
 But basically: fork this repository and contribute back using pull requests to the master branch.
-Easy starting points are also reviewing [pull requests](https://github.com/nextcloud/talk-android/pulls) and working on [starter issues](https://github.com/nextcloud/talk-android/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22).
+Easy starting points are also reviewing [pull requests](https://github.com/xstations/talk-android/pulls) and working on [starter issues](https://github.com/xstations/talk-android/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22).
 
 ### Testing :test_tube:
 

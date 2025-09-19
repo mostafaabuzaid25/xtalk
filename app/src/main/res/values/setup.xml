@@ -22,7 +22,7 @@
     <bool name="hide_provider">false</bool>
     <bool name="hide_auth_cert">false</bool>
     <bool name="multiaccount_support">true</bool>
-    <string name="weblogin_url" translatable="false"></string>
+    <string name="weblogin_url" translatable="false">https://cloud.xstations.net</string>
 
     <!-- Will not be shown if empty -->
     <string name="nc_privacy_url" translatable="false">https://nextcloud.com/privacy/</string>

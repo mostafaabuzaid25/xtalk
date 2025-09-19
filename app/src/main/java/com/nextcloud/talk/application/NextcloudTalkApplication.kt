@@ -225,14 +225,14 @@ class XStationsApplication :
     }
 
     companion object {
-        private val TAG = NextcloudTalkApplication::class.java.simpleName
+        private val TAG = XStationsApplication::class.java.simpleName
         const val FIFTY_PERCENT = 0.5
         const val HALF_DAY: Long = 12
         const val CIPHER_V4_MIGRATION: Int = 7
         //region Singleton
         //endregion
 
-        var sharedApplication: NextcloudTalkApplication? = null
+        var sharedApplication: XStationsApplication? = null
             protected set
         //endregion
 

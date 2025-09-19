@@ -24,6 +24,9 @@ How to translate with transifex:
   ~ SPDX-License-Identifier: GPL-3.0-or-later
 -->
 
+    <!-- App Name -->
+    <string name="nc_app_name">X Stations</string>
+
     <!-- Common -->
     <string name="nc_yes">Yes</string>
     <string name="nc_no">No</string>

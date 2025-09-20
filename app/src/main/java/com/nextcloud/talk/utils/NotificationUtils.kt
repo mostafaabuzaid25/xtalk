@@ -43,10 +43,10 @@ object NotificationUtils {
         NOTIFICATION_CHANNEL_UPLOADS
     }
 
-    const val DEFAULT_CALL_RINGTONE_URI =
-        "android.resource://" + BuildConfig.APPLICATION_ID + "/raw/librem_by_feandesign_call"
-    const val DEFAULT_MESSAGE_RINGTONE_URI =
-        "android.resource://" + BuildConfig.APPLICATION_ID + "/raw/librem_by_feandesign_message"
+    val DEFAULT_CALL_RINGTONE_URI: String
+        get() = "android.resource://${BuildConfig.APPLICATION_ID}/raw/librem_by_feandesign_call"
+    val DEFAULT_MESSAGE_RINGTONE_URI: String
+        get() = "android.resource://${BuildConfig.APPLICATION_ID}/raw/librem_by_feandesign_message"
 
     // RemoteInput key - used for replies sent directly from notification
     const val KEY_DIRECT_REPLY = "key_direct_reply"

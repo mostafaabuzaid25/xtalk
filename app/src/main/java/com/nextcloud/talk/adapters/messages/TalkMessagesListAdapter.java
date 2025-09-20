@@ -46,20 +46,25 @@ public class TalkMessagesListAdapter<M extends IMessage> extends MessagesListAda
         } else if (holder instanceof IncomingLocationMessageViewHolder) {
             IncomingLocationMessageViewHolder holderInstance = (IncomingLocationMessageViewHolder) holder;
             holderInstance.assignCommonMessageInterface(chatActivity);
-        } else if (holder instanceof OutcomingLocationMessageViewHolder holderInstance) {
+        } else if (holder instanceof OutcomingLocationMessageViewHolder) {
+            OutcomingLocationMessageViewHolder holderInstance = (OutcomingLocationMessageViewHolder) holder;
             holderInstance.assignCommonMessageInterface(chatActivity);
             holderInstance.adjustIfNoteToSelf(chatActivity.getCurrentConversation());
 
-        } else if (holder instanceof IncomingLinkPreviewMessageViewHolder holderInstance) {
+        } else if (holder instanceof IncomingLinkPreviewMessageViewHolder) {
+            IncomingLinkPreviewMessageViewHolder holderInstance = (IncomingLinkPreviewMessageViewHolder) holder;
             holderInstance.assignCommonMessageInterface(chatActivity);
-        } else if (holder instanceof OutcomingLinkPreviewMessageViewHolder holderInstance) {
+        } else if (holder instanceof OutcomingLinkPreviewMessageViewHolder) {
+            OutcomingLinkPreviewMessageViewHolder holderInstance = (OutcomingLinkPreviewMessageViewHolder) holder;
             holderInstance.assignCommonMessageInterface(chatActivity);
             holderInstance.adjustIfNoteToSelf(chatActivity.getCurrentConversation());
 
-        } else if (holder instanceof IncomingVoiceMessageViewHolder holderInstance) {
+        } else if (holder instanceof IncomingVoiceMessageViewHolder) {
+            IncomingVoiceMessageViewHolder holderInstance = (IncomingVoiceMessageViewHolder) holder;
             holderInstance.assignVoiceMessageInterface(chatActivity);
             holderInstance.assignCommonMessageInterface(chatActivity);
-        } else if (holder instanceof OutcomingVoiceMessageViewHolder holderInstance) {
+        } else if (holder instanceof OutcomingVoiceMessageViewHolder) {
+            OutcomingVoiceMessageViewHolder holderInstance = (OutcomingVoiceMessageViewHolder) holder;
             holderInstance.assignVoiceMessageInterface(chatActivity);
             holderInstance.assignCommonMessageInterface(chatActivity);
             holderInstance.adjustIfNoteToSelf(chatActivity.getCurrentConversation());

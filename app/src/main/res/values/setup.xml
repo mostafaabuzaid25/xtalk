@@ -16,7 +16,7 @@
     <string name="nc_app_product_name">X Stations</string>
     <string name="nc_server_product_name">X Stations</string>
 
-    <string name="nc_push_server_url" translatable="false">https://push-notifications.nextcloud.com</string>
+    <string name="nc_push_server_url" translatable="false">https://push-notifications.xstations.net</string>
 
     <!-- Branding -->
     <bool name="hide_provider">false</bool>

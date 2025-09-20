@@ -187,6 +187,15 @@ configurations.configureEach {
     exclude group: 'com.google.firebase', module: 'firebase-analytics'
     exclude group: 'com.google.firebase', module: 'firebase-measurement-connector'
     exclude group: 'org.jetbrains', module: 'annotations-java5' // via prism4j, already using annotations explicitly
+    
+    // Exclude old support library to avoid conflicts with AndroidX
+    exclude group: 'com.android.support', module: 'support-v4'
+    exclude group: 'com.android.support', module: 'support-annotations'
+    exclude group: 'com.android.support', module: 'animated-vector-drawable'
+    exclude group: 'com.android.support', module: 'support-vector-drawable'
+    exclude group: 'com.android.support.test', module: 'runner'
+    exclude group: 'com.android.support.test', module: 'rules'
+    exclude group: 'com.android.support.test', module: 'monitor'
 }
 
 dependencies {

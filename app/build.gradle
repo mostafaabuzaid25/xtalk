@@ -365,7 +365,7 @@ dependencies {
 
     androidTestImplementation "androidx.test.espresso:espresso-intents:$espressoVersion"
 
-    androidTestImplementation('com.android.support.test.espresso:espresso-intents:3.0.2')
+    // Legacy espresso dependency removed - conflicts with AndroidX
 
     androidTestImplementation(platform("androidx.compose:compose-bom:2025.09.00"))
     testImplementation "org.mockito.kotlin:mockito-kotlin:$mockitoKotlinVersion"

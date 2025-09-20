@@ -6,9 +6,6 @@
  * SPDX-FileCopyrightText: 2022 Tim Krüger <t@timkrueger.me>
  * SPDX-License-Identifier: GPL-3.0-or-later
  */
-
-// Disable configuration cache to avoid issues
-gradle.startParameter.configurationCacheRequested = false
 include ':app'
 
 //// uncomment to use local build of common-ui

@@ -35,13 +35,16 @@ public class TalkMessagesListAdapter<M extends IMessage> extends MessagesListAda
     @Override
     public void onBindViewHolder(ViewHolder holder, int position) {
 
-        if (holder instanceof IncomingTextMessageViewHolder holderInstance) {
+        if (holder instanceof IncomingTextMessageViewHolder) {
+            IncomingTextMessageViewHolder holderInstance = (IncomingTextMessageViewHolder) holder;
             holderInstance.assignCommonMessageInterface(chatActivity);
-        } else if (holder instanceof OutcomingTextMessageViewHolder holderInstance) {
+        } else if (holder instanceof OutcomingTextMessageViewHolder) {
+            OutcomingTextMessageViewHolder holderInstance = (OutcomingTextMessageViewHolder) holder;
             holderInstance.assignCommonMessageInterface(chatActivity);
             holderInstance.adjustIfNoteToSelf(chatActivity.getCurrentConversation());
 
-        } else if (holder instanceof IncomingLocationMessageViewHolder holderInstance) {
+        } else if (holder instanceof IncomingLocationMessageViewHolder) {
+            IncomingLocationMessageViewHolder holderInstance = (IncomingLocationMessageViewHolder) holder;
             holderInstance.assignCommonMessageInterface(chatActivity);
         } else if (holder instanceof OutcomingLocationMessageViewHolder holderInstance) {
             holderInstance.assignCommonMessageInterface(chatActivity);

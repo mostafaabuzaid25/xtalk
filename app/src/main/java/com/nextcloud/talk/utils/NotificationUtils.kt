@@ -52,7 +52,7 @@ object NotificationUtils {
     const val KEY_DIRECT_REPLY = "key_direct_reply"
 
     // notification group keys
-    const val KEY_UPLOAD_GROUP = "com.nextcloud.talk.utils.KEY_UPLOAD_GROUP"
+    const val KEY_UPLOAD_GROUP = "com.xstations.talk.utils.KEY_UPLOAD_GROUP"
     const val GROUP_SUMMARY_NOTIFICATION_ID = -1
 
     private fun createNotificationChannel(

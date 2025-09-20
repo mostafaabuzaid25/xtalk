@@ -69,22 +69,28 @@ public class TalkMessagesListAdapter<M extends IMessage> extends MessagesListAda
             holderInstance.assignCommonMessageInterface(chatActivity);
             holderInstance.adjustIfNoteToSelf(chatActivity.getCurrentConversation());
 
-        } else if (holder instanceof PreviewMessageViewHolder holderInstance) {
+        } else if (holder instanceof PreviewMessageViewHolder) {
+            PreviewMessageViewHolder holderInstance = (PreviewMessageViewHolder) holder;
             holderInstance.assignPreviewMessageInterface(chatActivity);
             holderInstance.assignCommonMessageInterface(chatActivity);
 
-        } else if (holder instanceof SystemMessageViewHolder holderInstance) {
+        } else if (holder instanceof SystemMessageViewHolder) {
+            SystemMessageViewHolder holderInstance = (SystemMessageViewHolder) holder;
             holderInstance.assignSystemMessageInterface(chatActivity);
 
-        } else if (holder instanceof IncomingDeckCardViewHolder holderInstance) {
+        } else if (holder instanceof IncomingDeckCardViewHolder) {
+            IncomingDeckCardViewHolder holderInstance = (IncomingDeckCardViewHolder) holder;
             holderInstance.assignCommonMessageInterface(chatActivity);
-        } else if (holder instanceof OutcomingDeckCardViewHolder holderInstance) {
+        } else if (holder instanceof OutcomingDeckCardViewHolder) {
+            OutcomingDeckCardViewHolder holderInstance = (OutcomingDeckCardViewHolder) holder;
             holderInstance.assignCommonMessageInterface(chatActivity);
             holderInstance.adjustIfNoteToSelf(chatActivity.getCurrentConversation());
 
-        } else if (holder instanceof IncomingPollMessageViewHolder holderInstance) {
+        } else if (holder instanceof IncomingPollMessageViewHolder) {
+            IncomingPollMessageViewHolder holderInstance = (IncomingPollMessageViewHolder) holder;
             holderInstance.assignCommonMessageInterface(chatActivity);
-        } else if (holder instanceof OutcomingPollMessageViewHolder holderInstance) {
+        } else if (holder instanceof OutcomingPollMessageViewHolder) {
+            OutcomingPollMessageViewHolder holderInstance = (OutcomingPollMessageViewHolder) holder;
             holderInstance.assignCommonMessageInterface(chatActivity);
             holderInstance.adjustIfNoteToSelf(chatActivity.getCurrentConversation());
         }

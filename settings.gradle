@@ -20,6 +20,3 @@ include ':app'
 //        substitute module('com.github.nextcloud-deps:ImagePicker') using project(':imagepicker')
 //    }
 //}
-
-// Disable dependency verification for X Stations build
-gradle.startParameter.isDependencyVerificationEnabled = false

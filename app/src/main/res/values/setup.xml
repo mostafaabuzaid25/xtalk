@@ -54,6 +54,6 @@
     <string name="osm_tile_server_url" translatable="false">https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png</string>
     <string name="osm_tile_server_attributation" translatable="false">OpenStreetMap contributors</string>
     <string name="osm_geocoder_url" translatable="false">https://nominatim.openstreetmap.org/</string>
-    <string name="osm_geocoder_contact" translatable="false">android@nextcloud.com</string>
+    <string name="osm_geocoder_contact" translatable="false">android@xstations.net</string>
 
 </resources>
